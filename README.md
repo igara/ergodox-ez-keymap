@@ -10,6 +10,7 @@
   - build tool.
 ## keymap file
 
-[ergodox_ez_igarashi.hex](ergodox_ez_igarashi.hex)
-https://configure.ergodox-ez.com/ergodox-ez/layouts/3qNlq/latest/0
+[ergodox_ez_igarashi.hex](ergodox_ez_igarashi.hex)  
+
+https://configure.ergodox-ez.com/ergodox-ez/layouts/e9eny/latest/0
 
